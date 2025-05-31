@@ -51,3 +51,7 @@ https://api.github.com/users/<username>/events
 ###  📜 License
 
 This project is licensed under the MIT License. Feel free to use and modify.
+
+### 🌐 Project URL
+
+[GitHub User Activity on roadmap.sh](https://roadmap.sh/projects/github-user-activity)
